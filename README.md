@@ -11,7 +11,7 @@ and includes the following steps:
   4. Your project folder must reside directly off the root directory of your AWS IDE
 
   #### HTML Specifications
-  1. All HTML document boilerplate stucture must be used
+  1. HTML document boilerplate stucture must be used
   2. Use at least one heading element of the largest size
   3. Use at least three heading elements of the 3rd largest size
   4. Use a minimum of 3 paragraph elements
