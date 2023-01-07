@@ -9,6 +9,8 @@ and includes the following steps:
   2. This assignment consists of a one page, published web site, using the text from the [Cybersecurity Concepts 1 markdown file](CybersecurityConcepts1.md)
   3. This repo must be cloned to, and all work done on your AWS Cloud9 IDE
   4. Your project folder must reside directly off the root directory of your AWS IDE
+  5. Push completed project to remote Github Repo with a final commit message of "Submit for Grading".
+  6. Publish your project using GitHub Pages (github.io)
 
   #### HTML Specifications
   1. HTML document boilerplate stucture must be used
