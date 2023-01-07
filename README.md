@@ -23,5 +23,5 @@ and includes the following steps:
   #### CSS Specifications
   1. Design your page with a mobile first approach
   2. Your page must be responsive to any and all devices
-  3. Deploy good topography principles - [The Beginner's Guide to Topography in Web Design](https://blog.hubspot.com/website/website-typography)
+  3. Use good topography principles - [The Beginner's Guide to Topography in Web Design](https://blog.hubspot.com/website/website-typography)
 
